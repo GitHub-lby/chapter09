@@ -10,5 +10,6 @@ public class HouseRentApp {
         System.out.println("====你退出房屋出租系统1.0====");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
+        System.out.println("push test!");
     }
 }
